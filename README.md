@@ -56,14 +56,14 @@ cd portfolio_react_phone-catalog
 Install dependencies:
 
 npm install
-# or
+or
 yarn install
 
 
 Run the project locally:
 
 npm start
-# or
+or
 yarn start
 
 ✨ Features
