@@ -9,7 +9,7 @@ Users can browse devices, add them to the shopping cart or favorites, filter and
 
 ## 🔗 Design Reference
 
-[Figma] (https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0)
+[Figma](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0)
 
 ## 🛠️ Tech Stack
 
