@@ -1,5 +1,4 @@
-📱 Phone Catalog
-
+📱<ins>**Phone Catalog**</ins>
 This project is an online catalog of mobile phones and tablets.
 Users can browse devices, add them to the shopping cart or favorites, filter and sort by parameters, and explore special offers.
 
