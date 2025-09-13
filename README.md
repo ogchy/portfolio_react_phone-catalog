@@ -50,20 +50,25 @@ gh-pages – Deployment
 Clone the repository:
 
 git clone https://github.com/ogchy/portfolio_react_phone-catalog
+
 cd portfolio_react_phone-catalog
 
 
 Install dependencies:
 
 npm install
+
 or
+
 yarn install
 
 
 Run the project locally:
 
 npm start
+
 or
+
 yarn start
 
 ## ✨ Features
