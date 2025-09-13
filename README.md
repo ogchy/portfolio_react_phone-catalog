@@ -49,9 +49,9 @@ Core
 
 - Clone the repository:
 
-  1. git clone https://github.com/ogchy/portfolio_react_phone-catalog
+  - git clone https://github.com/ogchy/portfolio_react_phone-catalog
 
-  2. cd portfolio_react_phone-catalog
+  - cd portfolio_react_phone-catalog
 
 
 - Install dependencies:
