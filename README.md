@@ -1,17 +1,17 @@
-## 📱Phone Catalog
+# 📱Phone Catalog
 
 This project is an online catalog of mobile phones and tablets.
 Users can browse devices, add them to the shopping cart or favorites, filter and sort by parameters, and explore special offers.
 
-### 🔗 Live Preview
+## 🔗 Live Preview
 
 👉 Phone Catalog Demo(https://ogchy.github.io/portfolio_react_phone-catalog/#/)
 
-### 🔗 Design Reference
+## 🔗 Design Reference
 
 👉 Figma https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Core
 
@@ -45,7 +45,7 @@ Cypress – Testing
 
 gh-pages – Deployment
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Clone the repository:
 
@@ -66,7 +66,7 @@ npm start
 or
 yarn start
 
-✨ Features
+## ✨ Features
 
 Responsive Design – Optimized for 320px, 640px, 1136px
 
