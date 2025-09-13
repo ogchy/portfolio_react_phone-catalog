@@ -5,11 +5,11 @@ Users can browse devices, add them to the shopping cart or favorites, filter and
 
 ## 🔗 Live Preview
 
-Phone Catalog Demo(https://ogchy.github.io/portfolio_react_phone-catalog/#/)
+[Phone Catalog Demo](https://ogchy.github.io/portfolio_react_phone-catalog/#/)
 
 ## 🔗 Design Reference
 
-Figma https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0
+[Figma] (https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0)
 
 ## 🛠️ Tech Stack
 
@@ -57,18 +57,14 @@ cd portfolio_react_phone-catalog
 Install dependencies:
 
 npm install
-
 or
-
 yarn install
 
 
 Run the project locally:
 
 npm start
-
 or
-
 yarn start
 
 ## ✨ Features
