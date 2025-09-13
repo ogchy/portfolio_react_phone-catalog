@@ -5,78 +5,78 @@ Users can browse devices, add them to the shopping cart or favorites, filter and
 
 ## 🔗 Live Preview
 
-🚀[Phone Catalog Demo](https://ogchy.github.io/portfolio_react_phone-catalog/#/)
+- 🚀[Phone Catalog Demo](https://ogchy.github.io/portfolio_react_phone-catalog/#/)
 
 ## 🔗 Design Reference
 
-🎨[Figma](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0)
+- 🎨[Figma](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original?node-id=0-1&p=f&t=4EuhqBvkrWLn1kk8-0)
 
 ## 🛠️ Tech Stack
 
 Core
 
-React (v18.3.1) – UI framework
+- React (v18.3.1) – UI framework
 
-TypeScript – Type safety
+- TypeScript – Type safety
 
-SCSS – Styling
+- SCSS – Styling
 
-Routing & Animations
+- Routing & Animations
 
-React Router DOM (v6.25.1) – Navigation
+- React Router DOM (v6.25.1) – Navigation
 
-React Transition Group (v4.4.5) – Animations
+- React Transition Group (v4.4.5) – Animations
 
-UI / Libraries
+- UI / Libraries
 
-Bulma (v1.0.1) – CSS framework
+- Bulma (v1.0.1) – CSS framework
 
-Font Awesome (v6.5.2) – Icons
+- Font Awesome (v6.5.2) – Icons
 
-Classnames – Conditional class management
+- Classnames – Conditional class management
 
-Development & Deployment
+- Development & Deployment
 
-Vite (v5.3.1) – Build tool
+- Vite (v5.3.1) – Build tool
 
-ESLint + Prettier – Code quality & formatting
+- ESLint + Prettier – Code quality & formatting
 
-Cypress – Testing
+- Cypress – Testing
 
-gh-pages – Deployment
+- gh-pages – Deployment
 
 ## ⚙️ Installation & Setup
 
-Clone the repository:
+- Clone the repository:
 
-git clone https://github.com/ogchy/portfolio_react_phone-catalog
+  1. git clone https://github.com/ogchy/portfolio_react_phone-catalog
 
-cd portfolio_react_phone-catalog
-
-
-Install dependencies:
-
-npm install
-or
-yarn install
+  2. cd portfolio_react_phone-catalog
 
 
-Run the project locally:
+- Install dependencies:
 
-npm start
-or
-yarn start
+  - npm install
+    or
+    yarn install
+
+
+- Run the project locally:
+
+  - npm start
+    or
+    yarn start
 
 ## ✨ Features
 
-Responsive Design – Optimized for 320px, 640px, 1136px
+- Responsive Design – Optimized for 320px, 640px, 1136px
 
-Navigation – Multi-page navigation with react-router-dom
+- Navigation – Multi-page navigation with react-router-dom
 
-Favorites & Cart – Add/remove products, total price calculation
+- Favorites & Cart – Add/remove products, total price calculation
 
-Pagination – Navigate through product lists
+- Pagination – Navigate through product lists
 
-Sticky Header – Header stays visible when scrolling
+- Sticky Header – Header stays visible when scrolling
 
-Scroll to Top Button – Quickly return to the top of the page
+- Scroll to Top Button – Quickly return to the top of the page
